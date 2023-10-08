@@ -1,4 +1,4 @@
-[# Thinc. First Act 2023 (Backend)
+# Thinc. First Act 2023 (Backend)
 
 ## Contents
 
