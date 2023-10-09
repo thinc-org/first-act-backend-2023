@@ -15,4 +15,4 @@
 
 ## Related Links
 
--  Slide: [Slide Link](https://github.com/thinc-org/first-act-backend-2023/blob/e76c13bedc75f3bb602ef7380efc327602d9e4e2/Backend%20Fundamental%20day%201.pdf)
+-  Slide: [Slide Link](https://github.com/thinc-org/first-act-backend-2023/blob/77b1d7a85c1c9490fa1bb7b839eeeeb0018be3aa/Backend%20Fundamental%20day%201.pdf)
